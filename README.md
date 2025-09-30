@@ -5,10 +5,10 @@ Useful Links:
 GitHub -
 [[https://github.com/SamDonald-A/TravelMemory]{.underline}](https://github.com/SamDonald-A/TravelMemory)
 
-Frontend -
+Frontend Code -
 <https://github.com/SamDonald-A/Frontend-TravelMemory/tree/master>
 
-Backend -
+Backend Code -
 <https://github.com/SamDonald-A/backend-travelmemory/tree/master>
 
 <img width="796" height="1030" alt="image" src="https://github.com/user-attachments/assets/2b207dc5-c331-4904-834b-32129e9e5a5c" />
